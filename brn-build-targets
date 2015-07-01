@@ -1,0 +1,7 @@
+# BRN build target list
+# <device> <build_type> <version> [period: "D"aily, "W"eekly or "M"onthly]
+# Absence of a period indicates Daily (the default)
+
+# Daily brn-12.1
+mako userdebug brn-12.1
+peregrine userdebug brn-12.1
